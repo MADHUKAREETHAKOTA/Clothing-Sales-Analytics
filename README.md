@@ -30,7 +30,7 @@ Total Sales: **₹21 million**
 Total Quantity Sold: **31,000 units**
 
 #### Top Performing Cities:
-Identified the Top 10 shipping cities based on sales.
+Analyzed the Top 10 shipping cities with the highest sales.
 
 #### Top Categories:
 Highest Sales Category: **Sets**  
